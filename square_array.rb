@@ -14,12 +14,13 @@ end
 
 
 #def square_array(array)
-#   new.array = []
+#   new_array = []
 #   counter = 0
 #   squared_numbers = numbers.map {|number| number * number}
 # while counter << squared_numbers do
 #   new_array << array[counter] ** 2
 #   counter += 1
+    new_array = 
 # end
 #   return new_array
 # end
