@@ -1,7 +1,7 @@
 require 'pry'
 
 def square_array(array)
-  new.array = []
+  new_array = []
   counter = 0
   numbers = i
   squared_numbers = number.each {|number| number * number}
