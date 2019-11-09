@@ -14,7 +14,7 @@ end
 
 
 #def square_array(array)
-#   new_array = []
+#   new.array = []
 #   counter = 0
 #   squared_numbers = numbers.map {|number| number * number}
 # while counter << squared_numbers do
